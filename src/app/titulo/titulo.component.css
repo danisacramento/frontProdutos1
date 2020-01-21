@@ -1,0 +1,13 @@
+.titulo{
+  
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: lightseagreen;
+    margin-bottom: 15px;
+    margin-left: 1px;
+    color: white;
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+}
